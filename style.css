@@ -1,0 +1,32 @@
+img {
+    
+    width: 100px;
+    height: 100px;
+}
+
+body {
+    
+    text-align:center;
+    padding-left: 400px;
+    padding-right: 400px;
+    border-width: thick;
+    border-color: cornflowerblue;
+    border-style: solid;
+}
+
+p {
+    
+    width: 500px;
+    text-align: center;
+}
+
+h1 {
+    
+    color:mediumblue;
+}
+
+button {
+    
+    background-color: yellow;
+    color: blue;
+}
